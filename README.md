@@ -1,5 +1,5 @@
-# Dharmasurya Arulmozhi
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dharmasurya Arulmozhi
+=============================================================================================================================================
 ## 🌐 Connect with Me
 - Email: dharmasuryaa1152@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dharmasurya-arulmozhi/)
