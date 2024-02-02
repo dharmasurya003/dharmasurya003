@@ -1,4 +1,42 @@
-<h3 align="center">A passionate data enthusiast residing in Canada</h3>
+# Dharmasurya Arulmozhi
+
+## 🌐 Connect with Me
+- Email: dharmasurya.arulmozhi@dal.ca
+- [LinkedIn](Your-LinkedIn-URL)
+- [GitHub](Your-GitHub-URL)
+- Location: Halifax, Nova Scotia
+
+## 💼 About Me
+I am a visionary and results-driven professional with nearly 3 years of hands-on experience in data engineering and analytics, leveraging my expertise in PySpark, Python, Java, and cloud platforms like Azure and AWS. My career encompasses designing and executing complex data pipelines and solutions across various sectors, including finance, entertainment, and healthcare. I am currently enriching my expertise with a Master's in Digital Innovation, focusing on Machine Learning and Data Science.
+
+## 🛠 Skills
+- **Data Engineering & Analytics:** Expertise in data modeling, management, EDA, and visualization using tools like NumPy, Pandas, and Power BI.
+- **Cloud Technologies:** Proficient with AWS (EC2, S3, Lambda) and Azure (Data Factory, Databricks).
+- **Programming Languages:** Python, PySpark, Java, SQL, and more.
+- **Machine Learning:** Familiar with TensorFlow, Keras, PyTorch.
+- **Project Management & Leadership:** Demonstrated ability in leading projects and cross-functional teams.
+
+## 🎓 Education
+- **Master of Digital Innovation (Data Science),** Dalhousie University, Canada, 2024.
+- **Bachelor of Engineering,** Anna University, India, 2021.
+
+## 💼 Work Experience
+- **Data Engineer,** Indium Software (July 2022 - July 2023): Led design and implementation of data pipeline architectures in Azure Synapse Studio and Databricks.
+- **Analyst - Software Engineer,** Agilisium Consulting (January 2021 - June 2022): Utilized Snaplogic and Python for data integration and process automation.
+
+## 🏆 Achievements
+- Quarterly top performer for developing impactful Proof of Concepts (POCs).
+- Collaborative Catalyst for bridging the gap between technical solutions and business needs.
+- Go Getter Award for advancing automation through web automation.
+
+## 📚 I'm Currently Learning
+- Advanced machine learning techniques and their application in data science.
+- Deep diving into cloud-native technologies for scalable data solutions.
+
+## 🤝 How to Contribute
+Interested in collaborating? Feel free to reach out or propose changes via pull requests. I'm always open to new ideas and contributions to my projects!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
