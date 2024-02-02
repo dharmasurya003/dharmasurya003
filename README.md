@@ -27,9 +27,6 @@ I am a visionary and results-driven professional with nearly 3 years of hands-on
 - **Data Engineer,** Indium Software (July 2022 - July 2023)
 - **Cloud Data Engineer,** Agilisium Consulting (January 2021 - June 2022)
 
-## 💼 Work Experience
-- **Data Engineer,** Indium Software (July 2022 - July 2023)
-- **Cloud Data Engineer,** Agilisium Consulting (January 2021 - June 2022)
 
 ## 🏆 Achievements
 - Quarterly top performer for developing impactful Proof of Concepts (POCs).
