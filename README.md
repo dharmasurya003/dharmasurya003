@@ -1,10 +1,9 @@
 # Dharmasurya Arulmozhi
 
 ## 🌐 Connect with Me
-- Email: dharmasurya.arulmozhi@dal.ca
-- [LinkedIn](Your-LinkedIn-URL)
-- [GitHub](Your-GitHub-URL)
-- Location: Halifax, Nova Scotia
+- Email: dharmasuryaa1152@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/dharmasurya-arulmozhi/)
+- Location: Canada
 
 ## 💼 About Me
 I am a visionary and results-driven professional with nearly 3 years of hands-on experience in data engineering and analytics, leveraging my expertise in PySpark, Python, Java, and cloud platforms like Azure and AWS. My career encompasses designing and executing complex data pipelines and solutions across various sectors, including finance, entertainment, and healthcare. I am currently enriching my expertise with a Master's in Digital Innovation, focusing on Machine Learning and Data Science.
@@ -13,16 +12,24 @@ I am a visionary and results-driven professional with nearly 3 years of hands-on
 - **Data Engineering & Analytics:** Expertise in data modeling, management, EDA, and visualization using tools like NumPy, Pandas, and Power BI.
 - **Cloud Technologies:** Proficient with AWS (EC2, S3, Lambda) and Azure (Data Factory, Databricks).
 - **Programming Languages:** Python, PySpark, Java, SQL, and more.
-- **Machine Learning:** Familiar with TensorFlow, Keras, PyTorch.
+- **Machine Learning:** Familiar with TensorFlow, Keras, PyTorch, Scikit-learn, Matplotlib, Seaborn.
 - **Project Management & Leadership:** Demonstrated ability in leading projects and cross-functional teams.
+
+## 📜 Certifications
+- **Azure Certified Data Engineer Associate**
+- **AWS Certified Cloud Practitioner**
 
 ## 🎓 Education
 - **Master of Digital Innovation (Data Science),** Dalhousie University, Canada, 2024.
 - **Bachelor of Engineering,** Anna University, India, 2021.
 
 ## 💼 Work Experience
-- **Data Engineer,** Indium Software (July 2022 - July 2023): Led design and implementation of data pipeline architectures in Azure Synapse Studio and Databricks.
-- **Analyst - Software Engineer,** Agilisium Consulting (January 2021 - June 2022): Utilized Snaplogic and Python for data integration and process automation.
+- **Data Engineer,** Indium Software (July 2022 - July 2023)
+- **Cloud Data Engineer,** Agilisium Consulting (January 2021 - June 2022)
+
+## 💼 Work Experience
+- **Data Engineer,** Indium Software (July 2022 - July 2023)
+- **Cloud Data Engineer,** Agilisium Consulting (January 2021 - June 2022)
 
 ## 🏆 Achievements
 - Quarterly top performer for developing impactful Proof of Concepts (POCs).
